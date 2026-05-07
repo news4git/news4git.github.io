@@ -1,6 +1,6 @@
 # Курсы сетевой Академии Cisco Астана: оптимизация AI-нагрузок на NVIDIA GPU
 
-Современные AI-сервисы, безусловно, требуют не просто мощных серверов. Им нужна гибкая инфраструктура, где Kubernetes, GPU и автоматизация работают как единый механизм. Поэтому [курсы сетевой Академии Cisco Астана](https://edu-cisco.org/courses/cisco-ccna-routing-and-switching/) помогают лучше понять, почему для LLM важны EKS, NVIDIA Device Plugin, Time Slicing и Karpenter. В этой статье разберем, как эти элементы помогают запускать модели быстрее и экономнее.
+Современные AI-сервисы, безусловно, требуют не просто мощных серверов. Им нужна гибкая инфраструктура, где Kubernetes, GPU и автоматизация работают как единый механизм. Поэтому <a href="https://edu-cisco.org/courses/cisco-ccna-routing-and-switching/" title="курсы Cisco Астана" target="_blank" rel="noopener noreferrer dofollow">курсы сетевой Академии Cisco Астана</a> помогают лучше понять, почему для LLM важны EKS, NVIDIA Device Plugin, Time Slicing и Karpenter. В этой статье разберем, как эти элементы помогают запускать модели быстрее и экономнее.
 
 ## Курсы сетевой Академии Cisco Астана и основы GPU для AI
 
