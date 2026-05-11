@@ -1,0 +1,14 @@
+site_name: Новости мира IT
+site_url: https://news4git.github.io
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.footer
+    - search.suggest
+  font:
+    text: Open Sans
+plugins:
+  - search  
+site_author: News 4 Git
+copyright: Copyright &copy; 2013 - 2026 News 4 Git
