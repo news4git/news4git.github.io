@@ -10,6 +10,11 @@ theme:
     text: Open Sans
 plugins:
   - search
+  - meta-descriptions:
+      enable_checks: true
+      min_length: 50      # Minimum character count
+      max_length: 160     # Maximum (SEO recommended)
+      trim: true          # Auto-trim if exceeded
 markdown_extensions:
   - meta
 site_author: News 4 Git
