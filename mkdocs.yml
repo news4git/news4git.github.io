@@ -1,5 +1,8 @@
 site_name: Новости мира IT
+site_description: Default meta description for the entire site (50-160 chars recommended)
+
 site_url: https://news4git.github.io/
+
 theme:
   name: material
   language: ru
@@ -8,6 +11,7 @@ theme:
     - search.suggest
   font:
     text: Open Sans
+
 plugins:
   - search
   - meta-descriptions:
@@ -15,7 +19,9 @@ plugins:
       min_length: 50      # Minimum character count
       max_length: 160     # Maximum (SEO recommended)
       trim: true          # Auto-trim if exceeded
+
 markdown_extensions:
   - meta
+
 site_author: News 4 Git
 copyright: Copyright &copy; 2013 - 2026 News 4 Git
