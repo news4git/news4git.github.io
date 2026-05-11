@@ -9,6 +9,8 @@ theme:
   font:
     text: Open Sans
 plugins:
-  - search  
+  - search
+markdown_extensions:
+  - meta
 site_author: News 4 Git
 copyright: Copyright &copy; 2013 - 2026 News 4 Git
