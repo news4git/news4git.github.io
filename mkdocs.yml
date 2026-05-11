@@ -1,5 +1,5 @@
 site_name: Новости мира IT
-site_url: https://news4git.github.io
+site_url: https://news4git.github.io/
 theme:
   name: material
   language: ru
