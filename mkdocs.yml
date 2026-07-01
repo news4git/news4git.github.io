@@ -1,5 +1,5 @@
-site_name: Новости мира IT
-site_description: Default meta description for the entire site (50-160 chars recommended)
+site_name: SEDICOMM Signal
+site_description: СЭДИКОММ Сигнал — информационное агентство Университета СЭДИКОММ о технологиях, которые меняют образование, профессию и будущее IT
 
 site_url: https://news4git.github.io/
 
@@ -24,5 +24,5 @@ plugins:
 markdown_extensions:
   - meta
 
-site_author: News 4 Git
+site_author: SEDICOMM Signal
 copyright: Copyright &copy; 2013 - 2026 News 4 Git
