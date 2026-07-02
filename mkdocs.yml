@@ -24,6 +24,9 @@ plugins:
 
 markdown_extensions:
   - meta
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 site_author: SEDICOMM Signal
 copyright: Copyright &copy; 2013 - 2026 News 4 Git
