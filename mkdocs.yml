@@ -15,6 +15,7 @@ theme:
 
 plugins:
   - search
+  - glightbox
   - meta-descriptions:
       enable_checks: true
       min_length: 50      # Minimum character count
